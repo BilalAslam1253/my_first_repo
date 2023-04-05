@@ -1,2 +1,2 @@
 # my_first_repo
-Practice repo
+Practice repo in order to learn GitHub
